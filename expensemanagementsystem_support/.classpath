@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry exported="true" kind="lib" path="WebContent/WEB-INF/lib/bcmail-jdk14-1.38.jar"/>
+	<classpathentry exported="true" kind="lib" path="WebContent/WEB-INF/lib/bcprov-jdk14-1.38.jar"/>
+	<classpathentry exported="true" kind="lib" path="WebContent/WEB-INF/lib/bctsp-jdk14-1.38.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/tomcat-util-7.0.26-sources.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.launching.macosx.MacOSXType/Java SE 6 [1.6.0_65-b14-468]"/>
+	<classpathentry kind="lib" path="/Users/sukanthgunda/Documents/apache-tomcat-7.0.42/lib/tomcat-coyote.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
