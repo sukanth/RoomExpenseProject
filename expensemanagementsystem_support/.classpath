@@ -7,7 +7,7 @@
 	<classpathentry exported="true" kind="lib" path="WebContent/WEB-INF/lib/bcprov-jdk14-1.38.jar"/>
 	<classpathentry exported="true" kind="lib" path="WebContent/WEB-INF/lib/bctsp-jdk14-1.38.jar"/>
 	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/tomcat-util-7.0.26-sources.jar"/>
-	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.launching.macosx.MacOSXType/Java SE 6 [1.6.0_65-b14-468]"/>
-	<classpathentry kind="lib" path="/Users/sukanthgunda/Documents/apache-tomcat-7.0.42/lib/tomcat-coyote.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/tomcat-util-8.0.0-rc1.jar"/>
 	<classpathentry kind="output" path="build/classes"/>
 </classpath>
